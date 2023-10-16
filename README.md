@@ -75,5 +75,17 @@ Labels
 - https://poindev.site/horizon/
 - https://poindev.site/templates/
 
+## Partnert Program 
+- https://awdev.my.id
+- https://alhikmah.my.id
+- https://alhikmah.eu.org
+- https://goozmedia.com
+- https://geturnet.com
+- https://imofrok.eu.org
+- https://mikrodinet.eu.org
+- https://notlern.com
+- https://gifshel.eu.org
+- https://awdev.eu.org
 
-Copyright © 2020 [poindev](https://www.alhikmah.my.id/)
+
+Copyright © 2020 [poindev](https://www.poindev.site/)
