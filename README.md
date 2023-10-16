@@ -27,4 +27,17 @@ Labels
 
 [Terbarukan Informasi anda Apa Itu HRIS : Pengertian & Cara Kerja HRIS](https://www.poindev.site/2023/07/hris.html)
 
+
+## Release 
+- https://poindev.site/
+- https://www.poindev.site/
+- https://poindev.site/pro/
+- https://poindev.site/wren/
+- https://poindev.site/codeigniter/
+- https://poindev.site/material-design-for-bootstrap/
+- https://poindev.site/horizon-tailwind/
+- https://poindev.site/horizon/
+- https://poindev.site/templates/
+
+
 Copyright © 2020 [poindev](https://www.alhikmah.my.id/)
