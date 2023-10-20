@@ -1,0 +1,22 @@
+{
+  "contact_email": "poinshel@gmail.com",
+  "contact_address": "poindev, Inc.,Jawa Tengah 50118 Indonesia ",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "f08c47fec0942fa0"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "pub-6718454554209533",
+      "name": "poindev",
+      "domain": "poindev.site",
+      "seller_type": "PUBLISHER",
+      "costumer id": "2078022465",
+      "ID ALIRAN DATA": "6082059678",
+      "const measurement_id": "G-1QDBRSDS46",
+      "const api_secret": "yIeHOJZiRsKSHF6HY24t8w",
+      "is_passthrough": 0
+    },
