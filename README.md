@@ -1,5 +1,7 @@
 # [poinshel.github.io](https://github.com/Poinshel/poinshel.github.io)
- [poinshel.github.io](https://github.com/Poinshel/poinshel.github.io) or [poindev.site](https://www.poindev.site)
+![poindev.site/favicon.ico](https://www.poindev.site/favicon.ico) 
+
+[poinshel.github.io](https://github.com/Poinshel/poinshel.github.io) or [poindev.site](https://www.poindev.site)
 ## Tentang Kami
 poindev.site dikenal sebagai pakar media sosial dan digital marketing di Indonesia. Di tengah kesibukannya, ia masih menyempatkan untuk menulis di blog pribadinya, yaitu Sudut Pandang.
 <ul>
