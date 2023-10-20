@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "197854512900",
+    "project_id": "poindev-site",
+    "storage_bucket": "poindev-site.appspot.com",
+    "domain": "poindev.site",
+    "url": "https://poindev.site"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197854512900:android:302be1e5751909adb27251",
+        "android_client_info": {
+          "package_name": "com.wnapp.id1692184086795"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197854512900-1o3m5kpljr99qm3vn36ao0deq9koidk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qa3e3Mx4LQmHr1d163F9k-hOmzaPINY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197854512900-1o3m5kpljr99qm3vn36ao0deq9koidk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6718454554209533~3095410588"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197854512900:android:ca71bc09d3223dafb27251",
+        "android_client_info": {
+          "package_name": "site.poindev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197854512900-1o3m5kpljr99qm3vn36ao0deq9koidk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qa3e3Mx4LQmHr1d163F9k-hOmzaPINY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197854512900-1o3m5kpljr99qm3vn36ao0deq9koidk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6718454554209533~2737631015"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197854512900:android:1799652b8926044db27251",
+        "android_client_info": {
+          "package_name": "site.poindev.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197854512900-1o3m5kpljr99qm3vn36ao0deq9koidk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qa3e3Mx4LQmHr1d163F9k-hOmzaPINY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197854512900-1o3m5kpljr99qm3vn36ao0deq9koidk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6718454554209533~5863924592"
+    }
+  ],
+  "configuration_version": "1"
+}
